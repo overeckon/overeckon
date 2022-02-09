@@ -42,7 +42,7 @@
 | Music-Player |  Made of Javascript. It is a responsive web application where you can listen the songs. It contains 10 songs. | [Repo](https://github.com/overeckon/Music-Player) | [Github](https://overeckon.github.io/Music-Player/) |
 | HipaaTexts.com | It is a Landing page of a website called hipaatexts.com. | [Repo](https://github.com/overeckon/overeckon.github.io) | [Github](https://overeckon.github.io/) |
 | iCoder-Blog Page | It is a Sample blog page made with HTML and Bootstrap only | [Repo](https://github.com/overeckon/codingBlogpage) | [Github](https://overeckon.github.io/codingBlogpage/) |
-| Coding Ninjas Solution | C++ Solutions of Coding Ninjas Foundation Course📐📐|  | [Repo](https://github.com/overeckon/Coding_Ninjas_Introduction_to_Cpp) | [](https://) |
+| Coding Ninjas Solution | C++ Solutions of Coding Ninjas Foundation Course📐📐| [Repo](https://github.com/overeckon/Coding_Ninjas_Introduction_to_Cpp) |  | [](https://) |
 
 
 ### Projects 🌱
