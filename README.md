@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Anant Parashar, a **Frontend Web Developer** (specializing in **React Applications and NodeJS**)  I am also Pursuing my Bachelor in **Electronics  & Communication Engineering** and will graduate in mid-2023.
+🎓 I am Anant Parashar, a **Frontend Web Developer** I am also Pursuing my Bachelor in **Electronics  & Communication Engineering** and will graduate in mid-2023.
 
 👨‍💻 I enjoy contributing to **Open Source Projects** . I am really enthusiastic about learning new technology. In 2021, I learned **ReactJS**, **NodeJS**, **JavaScript**, and **Backend Development**. [**Github Profile**](https://github.com/overeckon)
 
